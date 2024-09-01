@@ -1,0 +1,10 @@
+{
+  "name": "olimpijske-igre",
+  "version": "1.0.0",
+  "description": "Simulate a basketball tournament",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
